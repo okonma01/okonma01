@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Daniel Okonma — Software developer</title>
+<desc id="desc">A dark indigo banner with connected nodes, a waveform, and warm orange and teal accents.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#1d2543"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#f59e72"/><stop offset="1" stop-color="#68d9cb"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+<path d="M0 259C198 228 267 307 466 255S731 174 905 239s239 6 295-32" fill="none" stroke="#68d9cb" stroke-opacity=".24" stroke-width="3"/>
+<path d="M825 205l70-90 88 43 79-97 83 103M895 115l-48-46M983 158l47 83" fill="none" stroke="#a6b6d5" stroke-opacity=".35" stroke-width="2"/>
+<g fill="#101827" stroke-width="3"><circle cx="825" cy="205" r="9" stroke="#68d9cb"/><circle cx="895" cy="115" r="10" stroke="#f59e72"/><circle cx="983" cy="158" r="10" stroke="#68d9cb"/><circle cx="1062" cy="61" r="8" stroke="#f59e72"/><circle cx="1145" cy="164" r="8" stroke="#68d9cb"/><circle cx="1030" cy="241" r="8" stroke="#f59e72"/><circle cx="847" cy="69" r="7" stroke="#68d9cb"/></g>
+<rect x="55" y="56" width="58" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="55" y="137" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700">Daniel Okonma</text>
+<text x="58" y="192" fill="#68d9cb" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Software developer</text>
+<text x="58" y="237" fill="#a9b9d4" font-family="Arial, Helvetica, sans-serif" font-size="19">Building tools for data, machine learning, and the web.</text>
+</svg>
