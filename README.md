@@ -6,10 +6,11 @@ I build tools that make data easier to explore, explain, and act on. My work spa
 
 | Project | What I built |
 | --- | --- |
-| [Neural Network Playground](https://github.com/okonma01/neural-network-playground) · [Try it](https://okonma01.github.io/neural-network-playground/) | Train a small neural network in your browser to learn the shape of an SVG. I wrote the training engine in plain JavaScript, with adjustable activations and hyperparameters. |
-| [Everything is a Tensor](https://github.com/okonma01/tensor-visualizer) · [Try it](https://okonma01.github.io/tensor-visualizer/) | A visual explainer for how tables, sequences, text, and images become PyTorch tensors. Built with React, Vite, and Tailwind CSS. |
-| [Network Graph](https://github.com/okonma01/network-graph) · [Demo](https://network-graph.streamlit.app/) | Generate and transform transaction data into a network of accounts, transfers, emails, and phone numbers for fraud analysis. Python, NetworkX, and Tableau. |
-| [Make or Miss](https://github.com/okonma01/make-or-miss) · [Frontend](https://github.com/okonma01/mom-frontend) | A basketball simulation with an interactive React presentation of the game, play by play, and postgame stats. |
+| [Neural Network Playground](https://github.com/okonma01/neural-network-playground) | Train a small neural network in your browser to learn the shape of an SVG. I wrote the training engine in plain JavaScript, with adjustable activations and hyperparameters. Try it [here](https://okonma01.github.io/neural-network-playground/)! |
+| [Everything is a Tensor](https://github.com/okonma01/tensor-visualizer) | A visual explainer for how tables, sequences, text, and images become PyTorch tensors. Built with React, Vite, and Tailwind CSS. Try it [here](https://okonma01.github.io/tensor-visualizer/)! |
+| [Network Graph](https://github.com/okonma01/network-graph) | Generate and transform transaction data into a network of accounts, transfers, emails, and phone numbers for fraud analysis. Python, NetworkX, and Tableau. Try it [here](https://network-graph.streamlit.app/)! |
+| [Make or Miss](https://github.com/okonma01/mom-frontend) | A basketball simulation with an interactive React presentation of the game, play by play, and postgame stats. Play it [here](https://mom-frontend.fly.dev/)! |
+| [PCA Basketball Analysis](https://github.com/okonma01/nba-pca) | Analyze NBA play styles using PCA and clustering techniques. Read the notebook [here](https://colab.research.google.com/github/okonma01/nba-pca/blob/main/notebook.ipynb). |
 | [Drum Machine](https://github.com/okonma01/drum-machine) · [Try it](https://okonma01.github.io/drum-machine/) | A responsive, keyboard playable drum machine with Afrobeats and Hip hop kits. |
 
 ### What I work with
