@@ -1,5 +1,9 @@
 ![Daniel Okonma — Software developer](banner.svg)
 
+<p align="center">
+  <img src="assets/daniel-room.gif" alt="Daniel's animated bedroom: coding, reading, music, gaming, and resting" width="800" />
+</p>
+
 I build tools that make data easier to explore, explain, and act on. My work spans fraud detection, machine learning, and interactive web apps. I like taking an idea from a rough script to something people can actually use.
 
 ### Selected projects
